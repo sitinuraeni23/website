@@ -53,7 +53,7 @@
  }
  .logo{
     font-size: 2.5rem;
-    color: var(--bg-color);
+    color: #555;
     font-weight:600;
     cursor:default;
  }
@@ -61,12 +61,12 @@
     font-size: 1.7rem;
     margin-left: 4rem;
     transition: .3s;
-    color: var(--bg-color);
+    color: #555;
  }
 
  .navbar a:hover,
  .navbar a.active{
-    color: var(--main-color);
+    color: #555;
  }
  #menu-icon{
     font-size: 3.6rem;
